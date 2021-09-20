@@ -1,0 +1,3 @@
+([('passGui',
+   '/Users/user/PycharmProjects/passwordGenerator/dist/passGui',
+   'EXECUTABLE')],)
